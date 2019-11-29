@@ -2,11 +2,15 @@
 
 namespace OOP_Labs
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BankAccount bankAccount = new BankAccount();
+            bankAccount.Id = 10;
+            bankAccount.Balance = 150;
+
+            Console.WriteLine($"Account {bankAccount.Id}, balance {bankAccount.Balance}");
         }
     }
 }

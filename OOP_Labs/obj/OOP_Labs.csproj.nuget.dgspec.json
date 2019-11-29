@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\proj\\OOP_Labs\\OOP_Labs.csproj": {}
+    "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\OOP_Labs\\OOP_Labs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\proj\\OOP_Labs\\OOP_Labs.csproj": {
+    "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\OOP_Labs\\OOP_Labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\proj\\OOP_Labs\\OOP_Labs.csproj",
+        "projectUniqueName": "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\OOP_Labs\\OOP_Labs.csproj",
         "projectName": "OOP_Labs",
-        "projectPath": "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\proj\\OOP_Labs\\OOP_Labs.csproj",
+        "projectPath": "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\OOP_Labs\\OOP_Labs.csproj",
         "packagesPath": "C:\\Users\\David Oh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\proj\\OOP_Labs\\obj\\",
+        "outputPath": "C:\\Users\\David Oh\\source\\repos\\OOP_Labs\\OOP_Labs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Oh\\AppData\\Roaming\\NuGet\\NuGet.Config",
